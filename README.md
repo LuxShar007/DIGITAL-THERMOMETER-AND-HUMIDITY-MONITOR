@@ -55,7 +55,7 @@ I'm currently a first-year student at **SIES GST, Navi Mumbai** (Class of 2029).
 - Improving the **Cubet** recommendation engine.
 
 ## 📫 How to Reach Me
-- **LinkedIn:** [Insert your LinkedIn Link here]
+- **LinkedIn:** [Sharvin Mhatre](https://www.linkedin.com/in/shar095/)
 - **Website:** [cubet.space](https://cubet.space)
 
 ---
