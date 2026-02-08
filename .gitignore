@@ -1,0 +1,7 @@
+# Arduino IDE temporary files
+/build/
+/libraries/
+*.hex
+*.elf
+*.bin
+.DS_Store
