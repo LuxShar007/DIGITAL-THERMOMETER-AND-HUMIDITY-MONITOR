@@ -1,5 +1,8 @@
 # Smart Desk Monitor (Temp & Humidity)
 
+<p align="center">
+ <img src="AERIAL VIEW OF THE LIQUID CRYSTAL SCREEN .jpg" width="600" alt="Hardware Setup">
+</p>
 A practical Arduino-based environmental monitor that tracks real-time temperature and humidity to optimize study conditions.
 
 ## 🚀 Features
