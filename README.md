@@ -39,7 +39,7 @@ I'm currently a first-year student at **SIES GST, Navi Mumbai** (Class of 2029).
 ---
 
 ## 🛠️ Tech Stack & Skills
-- **Languages:** Java, Haskell, HTML/CSS (Learning Full Stack)
+- **Languages:** Java, Haskell, (Learning Full Stack), C, Python, Machine Learning
 - **Microcontrollers:** ESP32, Arduino, ESP8266
 - **Interests:** Robotics, IoT, Embedded Systems, and AI-Music Integration
 
